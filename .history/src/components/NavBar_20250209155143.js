@@ -4,7 +4,7 @@ import logo from '../assets/img/logo.svg';
 import navIcon1 from '../assets/img/nav-icon1.svg';
 import navIcon2 from '../assets/img/nav-icon2.svg';
 import navIcon3 from '../assets/img/nav-icon3.svg';
-import navIcon4 from '../assets/img/github-mark-white.png';
+import navIcon4 from '../assets/img/nav-icon4.svg';
 import Pdf from '../assets/NAGARAJU KOLLE.pdf';
 import { HashLink } from 'react-router-hash-link';
 import {
@@ -53,7 +53,7 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-              <a href="https://github.com/NAGARAJ-DEVELOPER/personal-portfolio" ><img src={navIcon4} alt="" /></a>
+              <a href="https://www.linkedin.com/in/nagaraj18" ><img src={navIcon4} alt="" /></a>
                 <a href="https://www.linkedin.com/in/nagaraj18" ><img src={navIcon1} alt="" /></a>
                 <a href="https://www.facebook.com/share/1BqVdezCGQ/"><img src={navIcon2} alt="" /></a>
                 <a href="https://www.instagram.com/_nagaraj_knr?igsh=MTBhMXF0N25pbjlsMg==" download><img src={navIcon3} alt="" /></a>

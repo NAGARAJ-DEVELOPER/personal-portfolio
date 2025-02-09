@@ -53,7 +53,7 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-              <a href="https://github.com/NAGARAJ-DEVELOPER/personal-portfolio" ><img src={navIcon4} alt="" /></a>
+              <a href="https://www.linkedin.com/in/nagaraj18" ><img src={navIcon4} alt="" /></a>
                 <a href="https://www.linkedin.com/in/nagaraj18" ><img src={navIcon1} alt="" /></a>
                 <a href="https://www.facebook.com/share/1BqVdezCGQ/"><img src={navIcon2} alt="" /></a>
                 <a href="https://www.instagram.com/_nagaraj_knr?igsh=MTBhMXF0N25pbjlsMg==" download><img src={navIcon3} alt="" /></a>
