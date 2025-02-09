@@ -1,0 +1,12 @@
+.fixed-image {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+   
+   
+      
+  }
+  .image-fix{
+   
+    overflow: auto;
+  }
